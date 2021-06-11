@@ -1,3 +1,3 @@
 # JS-Calculator
 ## Link 
-https://calculatorx-js.netlify.app
+https://calculatorx-js.netlify.app/
